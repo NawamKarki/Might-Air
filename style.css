@@ -556,8 +556,8 @@ img.brand-image {
 }
 
 @media only screen and (max-width: 990px) {
-  .logo {
-    width: 20rem;
+  .mobile-logo {
+    width: 8rem;
   }
 }
 
